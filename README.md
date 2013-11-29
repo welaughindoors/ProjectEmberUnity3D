@@ -1,4 +1,4 @@
-ProjectEmberUnity3D
-===================
+UnityThirdPersonTutorial
+========================
 
-Prototype of 'Project Ember' in Unity3D game engine
+Sample project showing third person camera behavior and Mecanim animations
